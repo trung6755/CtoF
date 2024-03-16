@@ -1,0 +1,7 @@
+C:\Users\Astral\source\repos\CtoF\CtoF\bin\Debug\CtoF.exe.config
+C:\Users\Astral\source\repos\CtoF\CtoF\bin\Debug\CtoF.exe
+C:\Users\Astral\source\repos\CtoF\CtoF\bin\Debug\CtoF.pdb
+C:\Users\Astral\source\repos\CtoF\CtoF\obj\Debug\CtoF.csproj.AssemblyReference.cache
+C:\Users\Astral\source\repos\CtoF\CtoF\obj\Debug\CtoF.csproj.CoreCompileInputs.cache
+C:\Users\Astral\source\repos\CtoF\CtoF\obj\Debug\CtoF.exe
+C:\Users\Astral\source\repos\CtoF\CtoF\obj\Debug\CtoF.pdb
